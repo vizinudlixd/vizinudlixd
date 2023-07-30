@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vizinudlixd
-- 👀 I’m interested in C#, C and C++
-- 🌱 I’m currently learning C#
+- 👀 C# C C++
+- 🌱 C#
 
 <!---
 vizinudlixd/vizinudlixd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
