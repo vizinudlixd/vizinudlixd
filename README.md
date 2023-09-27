@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vizinudlixd
-- 👀 🌱 C# C C++
+- 👀 🌱 C
 
 <!---
 vizinudlixd/vizinudlixd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
